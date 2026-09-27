@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.data/
+*.log
+.DS_Store
+.local-data/
+playwright-report/
+test-results/
+.local/
+artifacts/
+coverage/
+dist-server/
+.venv-tts/

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "linlan-1",
+    "characterId": "linlan",
+    "text": "你也在等雨停吗？进来吧，最后一壶咖啡还热着。今晚之后，这家店就要关门了。",
+    "image": "/media/linlan.png",
+    "video": "/media/clips/linlan-1.mp4"
+  },
+  {
+    "id": "linlan-2",
+    "characterId": "linlan",
+    "text": "不是因为生意差。只是这七年，我好像一直在等别人进门，忘了自己也能走出去。你会觉得可惜吗？",
+    "image": "/media/linlan.png",
+    "video": "/media/clips/linlan-2.mp4"
+  },
+  {
+    "id": "linlan-3",
+    "characterId": "linlan",
+    "text": "这封信是我开店那年写给自己的。上面写着：三十五岁之前，去看一次海。我甚至忘了自己写过它。",
+    "image": "/media/linlan.png",
+    "video": "/media/clips/linlan-3.mp4"
+  },
+  {
+    "id": "linlan-4",
+    "characterId": "linlan",
+    "text": "原来客人也偷偷在这里留了好多话。有人在这儿求婚，有人在这儿等到了录取通知。关掉它，好像会让这些事没有家。",
+    "image": "/media/linlan.png",
+    "video": "/media/clips/linlan-4.mp4"
+  },
+  {
+    "id": "linlan-5",
+    "characterId": "linlan",
+    "text": "我把海边的小城圈出来了。其实我怕的不是离开，是承认我真的想离开。谢谢你没有急着替我做决定。",
+    "image": "/media/linlan.png",
+    "video": "/media/clips/linlan-5.mp4"
+  },
+  {
+    "id": "linlan-6",
+    "characterId": "linlan",
+    "text": "也许我可以让学徒轮班，先给自己放一个月的假。开门和远行，原来不用非选一个。你愿意帮我写新的营业牌吗？",
+    "image": "/media/linlan.png",
+    "video": "/media/clips/linlan-6.mp4"
+  },
+  {
+    "id": "linlan-end-sea",
+    "characterId": "linlan",
+    "text": "天快亮了，我买好了车票。钥匙已经交给学徒，留言册也带上了。下一次见面，我想请你喝一杯有海风味道的咖啡。",
+    "image": "/media/linlan.png",
+    "video": "/media/clips/linlan-end-sea.mp4"
+  },
+  {
+    "id": "linlan-end-home",
+    "characterId": "linlan",
+    "text": "新的门牌挂好了。星期三是我的休息日，月底我也会去看海。谢谢你陪我发现，喜欢一件事，也可以不用把自己耗尽。",
+    "image": "/media/linlan.png",
+    "video": "/media/clips/linlan-end-home.mp4"
+  },
+  {
+    "id": "shenyao-1",
+    "characterId": "shenyao",
+    "text": "副驾驶，这个频率不该有人使用。信号重复了三遍，呼号属于十三年前失踪的曙光号。先别转向，我们得确认它。",
+    "image": "/media/shenyao.png",
+    "video": "/media/clips/shenyao-1.mp4"
+  },
+  {
+    "id": "shenyao-2",
+    "characterId": "shenyao",
+    "text": "时间戳确实是十三年前，但信号里叠加了今天的星图坐标。它不是简单的录音，有人在用旧信号给我们指路。",
+    "image": "/media/shenyao.png",
+    "video": "/media/clips/shenyao-2.mp4"
+  },
+  {
+    "id": "shenyao-3",
+    "characterId": "shenyao",
+    "text": "前方有一圈金属碎片，像是拆解过的空间站。我们的燃料只够一次绕行，贸然进去就没有第二次机会了。",
+    "image": "/media/shenyao.png",
+    "video": "/media/clips/shenyao-3.mp4"
+  },
+  {
+    "id": "shenyao-4",
+    "characterId": "shenyao",
+    "text": "收到文字回应了：我是曙光号的维护系统，船员已在十二年前撤离。我守着最后一份观测资料，电池只剩一小时。",
+    "image": "/media/shenyao.png",
+    "video": "/media/clips/shenyao-4.mp4"
+  },
+  {
+    "id": "shenyao-5",
+    "characterId": "shenyao",
+    "text": "资料开始传输了。它还给了我们一条未记录的引力航道，能省下百分之八的燃料。或许我们可以多带一位乘客回家。",
+    "image": "/media/shenyao.png",
+    "video": "/media/clips/shenyao-5.mp4"
+  },
+  {
+    "id": "shenyao-6",
+    "characterId": "shenyao",
+    "text": "探针标出了清晰通道。我可以手动对接，你来盯住倒计时。窗口只有四十秒，错过就立即放弃。这是我们一起的决定。",
+    "image": "/media/shenyao.png",
+    "video": "/media/clips/shenyao-6.mp4"
+  },
+  {
+    "id": "shenyao-end-core",
+    "characterId": "shenyao",
+    "text": "核心接通了。它说，这是十三年来第一次有人对它说欢迎登船。副驾驶，我们多了一位乘客。现在，回家。",
+    "image": "/media/shenyao.png",
+    "video": "/media/clips/shenyao-end-core.mp4"
+  },
+  {
+    "id": "shenyao-end-home",
+    "characterId": "shenyao",
+    "text": "资料已经归档，所有人都在。我们把曙光号的名字标在新星图上。它留下的路，会让以后的旅人少走很多弯路。",
+    "image": "/media/shenyao.png",
+    "video": "/media/clips/shenyao-end-home.mp4"
+  },
+  {
+    "id": "xuzhiqiu-1",
+    "characterId": "xuzhiqiu",
+    "text": "你看，这页夹着一张一九九六年的车票。背面写着阿青，书的扉页却签着周敏。书主是谁，我们还不能确定。",
+    "image": "/media/xuzhiqiu.png",
+    "video": "/media/clips/xuzhiqiu-1.mp4"
+  },
+  {
+    "id": "xuzhiqiu-2",
+    "characterId": "xuzhiqiu",
+    "text": "车票日期和剪报上的诗歌比赛是同一天。获奖者叫陈青，但这只能说明她可能去过那里，不能证明书是她的。",
+    "image": "/media/xuzhiqiu.png",
+    "video": "/media/clips/xuzhiqiu-2.mp4"
+  },
+  {
+    "id": "xuzhiqiu-3",
+    "characterId": "xuzhiqiu",
+    "text": "登记册写着周敏借走，陈青归还。旁边还有一句：替她送行。看来这本书经过两个人的手。",
+    "image": "/media/xuzhiqiu.png",
+    "video": "/media/clips/xuzhiqiu-3.mp4"
+  },
+  {
+    "id": "xuzhiqiu-4",
+    "characterId": "xuzhiqiu",
+    "text": "找到了。明信片写着：阿青，谢谢你替我还书。我终于敢去外地读书了。落款是小敏。原来送行的人，和离开的人不同。",
+    "image": "/media/xuzhiqiu.png",
+    "video": "/media/clips/xuzhiqiu-4.mp4"
+  },
+  {
+    "id": "xuzhiqiu-5",
+    "characterId": "xuzhiqiu",
+    "text": "现在我们知道，周敏离开小城，陈青替她还了书。但她们后来是否再见，档案没有答案。我们不能替她们写一个结局。",
+    "image": "/media/xuzhiqiu.png",
+    "video": "/media/clips/xuzhiqiu-5.mp4"
+  },
+  {
+    "id": "xuzhiqiu-6",
+    "characterId": "xuzhiqiu",
+    "text": "展签可以写：一本诗集见证了两位朋友的送别。姓名隐去，未知留白。也可以暂时不展出，只在档案里附上我们的核查过程。",
+    "image": "/media/xuzhiqiu.png",
+    "video": "/media/clips/xuzhiqiu-6.mp4"
+  },
+  {
+    "id": "xuzhiqiu-end-exhibit",
+    "characterId": "xuzhiqiu",
+    "text": "展签摆好了。有位客人看了很久，说她也曾为朋友还过一本书。我想，真实的故事不用被写得圆满，也能照亮别人。",
+    "image": "/media/xuzhiqiu.png",
+    "video": "/media/clips/xuzhiqiu-end-exhibit.mp4"
+  },
+  {
+    "id": "xuzhiqiu-end-letter",
+    "characterId": "xuzhiqiu",
+    "text": "我给捐书人留了一封询问信，把档案妥善收好了。也许有一天，她们会亲自告诉我们后来的事。在那之前，书店会替她们保管。",
+    "image": "/media/xuzhiqiu.png",
+    "video": "/media/clips/xuzhiqiu-end-letter.mp4"
+  }
+]

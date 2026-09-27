@@ -1,0 +1,231 @@
+{
+  "repository": "xtasy-character-theater",
+  "clips": 24,
+  "allVideosChanged": true,
+  "totalSeconds": 341.945,
+  "voices": [
+    "zf_001",
+    "zf_018",
+    "zm_010"
+  ],
+  "allStreamsValid": true,
+  "allAudioNonSilentAndUnclipped": true,
+  "checks": [
+    {
+      "id": "linlan-1",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 10.655,
+      "peak": 0.40353,
+      "rms": 0.05346
+    },
+    {
+      "id": "linlan-2",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 12.18,
+      "peak": 0.5062,
+      "rms": 0.05395
+    },
+    {
+      "id": "linlan-3",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 12.655,
+      "peak": 0.47705,
+      "rms": 0.05407
+    },
+    {
+      "id": "linlan-4",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 13.905,
+      "peak": 0.47183,
+      "rms": 0.05253
+    },
+    {
+      "id": "linlan-5",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 12.855,
+      "peak": 0.50626,
+      "rms": 0.05337
+    },
+    {
+      "id": "linlan-6",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 13.68,
+      "peak": 0.46878,
+      "rms": 0.05389
+    },
+    {
+      "id": "linlan-end-sea",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 13.805,
+      "peak": 0.41022,
+      "rms": 0.05278
+    },
+    {
+      "id": "linlan-end-home",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 13.905,
+      "peak": 0.49722,
+      "rms": 0.05415
+    },
+    {
+      "id": "shenyao-1",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 13.43,
+      "peak": 0.37555,
+      "rms": 0.04197
+    },
+    {
+      "id": "shenyao-2",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 12.145,
+      "peak": 0.34317,
+      "rms": 0.03945
+    },
+    {
+      "id": "shenyao-3",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 11.52,
+      "peak": 0.39941,
+      "rms": 0.04079
+    },
+    {
+      "id": "shenyao-4",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 12.17,
+      "peak": 0.40173,
+      "rms": 0.03981
+    },
+    {
+      "id": "shenyao-5",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 13.68,
+      "peak": 0.3974,
+      "rms": 0.04017
+    },
+    {
+      "id": "shenyao-6",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 15.34,
+      "peak": 0.47253,
+      "rms": 0.04268
+    },
+    {
+      "id": "shenyao-end-core",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 13.915,
+      "peak": 0.47861,
+      "rms": 0.04311
+    },
+    {
+      "id": "shenyao-end-home",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 13.505,
+      "peak": 0.43713,
+      "rms": 0.04142
+    },
+    {
+      "id": "xuzhiqiu-1",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 15.58,
+      "peak": 0.44287,
+      "rms": 0.03427
+    },
+    {
+      "id": "xuzhiqiu-2",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 14.595,
+      "peak": 0.35489,
+      "rms": 0.03443
+    },
+    {
+      "id": "xuzhiqiu-3",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 14.005,
+      "peak": 0.42062,
+      "rms": 0.0343
+    },
+    {
+      "id": "xuzhiqiu-4",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 20.7,
+      "peak": 0.42392,
+      "rms": 0.03513
+    },
+    {
+      "id": "xuzhiqiu-5",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 16.28,
+      "peak": 0.33606,
+      "rms": 0.034
+    },
+    {
+      "id": "xuzhiqiu-6",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 17.23,
+      "peak": 0.42874,
+      "rms": 0.03255
+    },
+    {
+      "id": "xuzhiqiu-end-exhibit",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 16.58,
+      "peak": 0.51242,
+      "rms": 0.03391
+    },
+    {
+      "id": "xuzhiqiu-end-letter",
+      "videoChanged": true,
+      "audioCodec": "aac",
+      "subtitleCodec": "mov_text",
+      "seconds": 17.63,
+      "peak": 0.36273,
+      "rms": 0.03321
+    }
+  ]
+}

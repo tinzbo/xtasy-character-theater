@@ -1,0 +1,35 @@
+name: Build and verify
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run media:check
+      - run: npm run build
+      - name: Smoke test production server
+        shell: bash
+        run: |
+          npm start > /tmp/theatre.log 2>&1 &
+          server_pid=$!
+          trap 'kill "$server_pid" || true' EXIT
+          for attempt in {1..30}; do
+            if curl --fail --silent http://127.0.0.1:4312/api/health > /tmp/theatre-health.json; then
+              break
+            fi
+            sleep 1
+          done
+          curl --fail --silent http://127.0.0.1:4312/ > /tmp/theatre.html
+          node --input-type=module -e "import fs from 'node:fs';const health=JSON.parse(fs.readFileSync('/tmp/theatre-health.json','utf8'));if(!health.ok)process.exit(1);if(!fs.readFileSync('/tmp/theatre.html','utf8').includes('Xtasy Theatre'))process.exit(1);"

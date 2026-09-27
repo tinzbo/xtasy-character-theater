@@ -1,0 +1,7 @@
+# Verified with Python 3.11.13. The model and voices are pinned in data/tts-config.json.
+kokoro==0.9.4
+misaki[zh]==0.9.4
+soundfile==0.13.1
+transformers==4.51.3
+huggingface-hub==0.36.0
+torch==2.8.0

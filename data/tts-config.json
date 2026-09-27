@@ -1,0 +1,15 @@
+{
+  "engine": "Kokoro local neural TTS",
+  "model": "hexgrad/Kokoro-82M-v1.1-zh",
+  "revision": "01e7505bd6a7a2ac4975463114c3a7650a9f7218",
+  "license": "Apache-2.0",
+  "weightsFile": "kokoro-v1_1-zh.pth",
+  "weightsSha256": "b1d8410fa44dfb5c15471fd6c4225ea6b4e9ac7fa03c98e8bea47a9928476e2b",
+  "language": "Mandarin Chinese",
+  "voices": {"linlan": "zf_001", "shenyao": "zm_010", "xuzhiqiu": "zf_018"},
+  "sampleRate": 24000,
+  "speed": 1.0,
+  "sentencePauseSeconds": 0.16,
+  "seed": 20260927,
+  "device": "cpu"
+}

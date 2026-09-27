@@ -1,0 +1,13 @@
+services:
+  theatre:
+    build: .
+    ports:
+      - "127.0.0.1:4312:4312"
+    environment:
+      TYPESAFE_API_KEY: ${TYPESAFE_API_KEY:-}
+      TYPESAFE_MODEL: ${TYPESAFE_MODEL:-jev-latest}
+    volumes:
+      - theatre-data:/app/.data
+    restart: unless-stopped
+volumes:
+  theatre-data:
